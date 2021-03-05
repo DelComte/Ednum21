@@ -2,4 +2,4 @@
 
 Exercices réalisés le 05.03.2021
 
-## Edition numérique avancé
+## Edition numérique avancée
